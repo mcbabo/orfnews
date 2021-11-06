@@ -16,9 +16,9 @@ pip install orf-news
 
 ```py
 news() takes one required and one optional argument
-news([HEADLINE], [COUNT])
-TASK = str
-PRECISION = int
+news([HEADLINE], [LIMIT])
+HEADLINE = str
+LIMIT = int
 ```
 
 ### Run Program: ###
