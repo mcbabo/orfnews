@@ -16,12 +16,13 @@ classifiers = [
 
 setup(
     name="orf_news",
-    version="1.1.2",
+    version="1.1.3",
     description="Online ORF News Wrapper",
     long_description=open("README.md").read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/mcbabo/orf",
+    url="https://github.com/mcbabo/orfnews",
     author="Moritz Joksch",
+    author_email="moritz.joksch@gmail.com",
     license="MIT",
     classifiers=classifiers,
     keywords="orf news austria api wrapper",
