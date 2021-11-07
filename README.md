@@ -40,9 +40,9 @@ asyncio.run(bread())
 ### OUTPUT: ###
 ```py
 # with 2 posts
-["post1"], "post2"]
-# without posts limitation
-["post1"], "post2", ....., "postn"]
+["post1", "post2"]
+# without n posts limitation
+["post1", "post2", ....., "postn"]
 ```
 
 ## Ride the space skyway home to 80s Miami ##
